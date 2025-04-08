@@ -1,0 +1,4 @@
+[package]
+org = "rocky"
+name = "test_special_chars_devant"
+version = "0.1.0"
